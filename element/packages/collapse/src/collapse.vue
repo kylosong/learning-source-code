@@ -10,6 +10,7 @@
     componentName: 'ElCollapse',
 
     props: {
+      // 是否开启手风琴模式
       accordion: Boolean,
       value: {
         type: [Array, String, Number],
